@@ -1,0 +1,11 @@
+* {
+    color: blue;
+    font-size: 1cm;
+}
+
+@media only screen and (min-width: 390px) and (max-width: 820px) {
+    * {
+        color: red;
+        font-size: 2cm;
+    }
+}
