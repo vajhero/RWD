@@ -10,6 +10,10 @@ let WinOpen_karczewski4 = () => {
     window.open("zadanie4.html");
 }
 
+let WinOpen_karczewski5 = () => {
+    window.open("strona_responsywna_karczewski/index_karczewski.html");
+}
+
 let WinOpen_karczewski2_kod = () => {
     window.open("zadanie2_kod.html");
 }
